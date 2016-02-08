@@ -1,0 +1,19 @@
+/bin/
+/target/
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings
+.metadata
+
+# OS
+.DS_Store
+
+#Other
+*.bak
